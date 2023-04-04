@@ -1,0 +1,6 @@
+{
+	"name": "SharedIntegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

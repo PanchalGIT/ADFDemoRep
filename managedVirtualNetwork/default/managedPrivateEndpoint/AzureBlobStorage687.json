@@ -1,0 +1,10 @@
+{
+	"name": "AzureBlobStorage687",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/6deed469-4143-4fe7-863d-6376bc222dd7/resourceGroups/RG-UAT-ADF/providers/Microsoft.Storage/storageAccounts/uatblobadf",
+		"groupId": "blob",
+		"fqdns": [
+			"uatblobadf.blob.core.windows.net"
+		]
+	}
+}
